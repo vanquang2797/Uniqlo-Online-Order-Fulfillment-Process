@@ -9,8 +9,6 @@
 | Item | Detail |
 |------|--------|
 | **Course** | Business Process Management – ITS713 (Banking University of HCMC) |
-| **Team** | Thịt Kho Trứng (5 members) |
-| **Role** | Team member – VA/BVA/NVA analysis & quantitative evaluation |
 | **Methodology** | BPM lifecycle: Process Discovery → Modeling → Analysis → Redesign → Evaluation |
 | **Tool** | BPMN 2.0 |
 
